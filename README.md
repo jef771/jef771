@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 [![jef771's GitHub stats](https://github-readme-stats.vercel.app/api?username=jef771&show_icons=true&theme=graywhite)](https://github.com/jef771/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef771&layout=compact&langs_count=8&card_width=200)](https://github.com/jef771/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jef771&layout=compact&langs_count=8&card_width=500)](https://github.com/jef771/github-readme-stats)
 
